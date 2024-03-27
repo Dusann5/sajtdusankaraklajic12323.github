@@ -1,0 +1,233 @@
+body {
+    background-image: url("../img/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif; 
+  }
+  
+
+  .navbar {
+    margin-bottom: 20px; 
+    background-color: #28a745;
+  }
+  
+  .navbar-brand img {
+    width: 100px; 
+  }
+  
+  .nav-link {
+    padding: 0.5rem 1rem; 
+  }
+  
+  .nav-link h5 {
+    margin: 0; 
+  }
+
+  .carousel-caption {
+    text-align: center; 
+  }
+  
+
+  .pocetnitekst {
+    margin-top: 20px;
+    border: 1px solid #28a745;
+    box-shadow: 3px 3px 3px #777;
+    background-color: white;
+    padding: 20px; 
+  }
+  
+  .naslov {
+    color: #28a745;
+    text-align: center;
+    margin-top: 0; 
+  }
+  
+
+  .page-footer {
+    background-color: #28a745;
+    margin-top: 20px;
+    padding: 20px 0; 
+  }
+  
+  .page-footer p {
+    color: white;
+    font-size: 17px;
+    margin: 0; 
+  }
+  .slikapocetna {
+    padding: 30px;
+    margin: 20px auto;
+    display: block;
+    max-width: 100%; 
+    height: auto;
+  }
+  
+  .okvirpocetneslike {
+    background-color: #28a745;
+    opacity: 0.7;
+    transition: opacity 2s ease;
+    margin-top: 20px;
+    width: 100%; 
+    box-sizing: border-box;
+  }
+  
+  .okvirpocetneslike:hover {
+    opacity: 1.0;
+  }
+  #ikonice a {
+    color: #fff;
+    margin-right: 10px; 
+    text-decoration: none;
+  }
+  
+  #ikonice a:hover {
+    color: #ffd700;
+  }
+
+.card{
+	border: 1px solid #28a745;
+	margin: 5px;
+	margin-top: 20px;
+}
+.card img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.naslov{
+	color: #28a745;
+	text-shadow: 1px 1px 1px #777;
+	text-align: center;
+}
+div.galerija{
+	margin-top: 20px;
+	border: 1px solid #777;
+	box-shadow: 3px 3px 3px #777;
+	background-color: white;
+	overflow: hidden;
+}
+div.galerija:hover {
+	border: 1px solid #28a745;
+}
+div.galerija img {
+	width: 100%;
+	height: auto;
+	opacity: 0.7;
+	-webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -o-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    transition: all 2s ease;
+}
+.galerija img:hover{
+	opacity: 1.0;
+}
+div.tekst {
+	padding: 15px;
+	text-align: center;
+	color: #5cb85c;
+}
+
+div.kontaktstrana{
+	background-color: white;
+	padding: 20px;
+	position: center;
+	margin: auto;
+}
+.kontaktstrana input{
+	border: 2px solid #28a745;
+}
+.kontaktstrana textarea{
+	border: 2px solid #28a745;
+}
+.kontaktstrana img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.kontaktstrana p{
+	padding: 15px;
+	text-align: center;
+	color: #5cb85c;
+}
+
+div.proizvod{
+	border: 1px solid #28a745;
+	box-shadow: 3px 3px 3px #777;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	position: relative;
+}
+div.proizvod img{
+	width: 100%;
+	height: auto;
+}
+div.slajd{
+	position: absolute;
+  	bottom: 0;
+  	left: 100%;
+  	right: 0;
+  	background-color: #28a745;
+  	overflow: hidden;
+  	width: 0;
+  	height: 100%;
+  	transition: .5s ease;
+}
+.proizvod:hover .slajd{
+  cursor: pointer;
+  width: 100%;
+  left: 0;
+}
+div.slajd1{
+	position: absolute;
+  	bottom: 0;
+  	left: 0;
+  	right: 100%;
+  	background-color: #28a745;
+  	overflow: hidden;
+  	width: 0;
+  	height: 100%;
+  	transition: .5s ease;
+}
+.proizvod:hover .slajd1{
+  cursor: pointer;
+  width: 100%;
+  right: 0;
+}
+div.opis_proizvoda{
+	color: white;
+  	font-size: 20px;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-webkit-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+  	white-space: nowrap;
+}
+div.forma{
+	width: 50%;
+	border: 1px solid #28a745;
+	background-color: white;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 20px;
+}
+.forma input{
+	border: 2px solid #28a745;
+}
+.author-image {
+    max-width: 250px;
+    border-radius: 20%;
+  }
+.tekstimg{
+    color: #fff;
+  }
+.naslovimg{
+    color: #28a745;
+}

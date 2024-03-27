@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Naslov Vašeg Feed-a</title>
+    <link>https://www.example.com</link>
+    <description>Kratki opis vašeg feed-a</description>
+    <item>
+      <title>Dobrodošli na našu web stranicu</title>
+      <link>https://www.example.com</link>
+      <description>Upoznajte našu porodičnu pčelarsku zajednicu i saznajte više o našim proizvodima.</description>
+    </item>
+    <item>
+      <title>O Nama - Pčelarsko-porodični biznis Karaklajić</title>
+      <link>https://www.example.com/onama.html</link>
+      <description>Upoznajte članove naše porodice i saznajte više o našoj tradiciji pčelarstva.</description>
+    </item>
+    <item>
+      <title>Galerija - Pogledajte naše slike i fotografije</title>
+      <link>https://www.example.com/galerija.html</link>
+      <description>Pogledajte slike naših pčelinjaka, proizvoda i našeg tima u akciji.</description>
+    </item>
+    <item>
+      <title>Kontaktirajte nas - Pčelarsko-porodični biznis Karaklajić</title>
+      <link>https://www.example.com/kontakt.html</link>
+      <description>Imate pitanje ili želite da nas kontaktirate? Ovde možete pronaći naše kontakt informacije.</description>
+    </item>
+    <item>
+      <title>Naši proizvodi - Pogledajte naš asortiman meda</title>
+      <link>https://www.example.com/proizvodi.html</link>
+      <description>Upoznajte se sa našim asortimanom meda i saznajte više o našim proizvodima.</description>
+    </item>
+    <item>
+      <title>O Autoru - Dušan Karaklajić</title>
+      <link>https://www.example.com/OAutoru.html</link>
+      <description>Saznajte više o osnivaču našeg porodičnog biznisa, Dušanu Karaklajiću.</description>
+    </item>
+  </channel>
+</rss>
