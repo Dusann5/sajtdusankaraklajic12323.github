@@ -42,14 +42,6 @@ body {
     text-align: center;
     margin-top: 0; 
   }
-  footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-}
-
   .page-footer {
     background-color: #28a745;
     margin-top: 20px;
